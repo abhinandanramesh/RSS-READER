@@ -13,8 +13,8 @@ Most of the RSS feed are not feed, it is a browser's rendition of the RSS feed i
 
 So, do "wget <URL>" which saves an output file to the system i.e. the RSS file.
 
-Look at the HTML structure and add more buttons as desired. This is just the controller part of the application.
+Look at the HTML structure and add more buttons as desired. I have implemented a minimal UI.
 
 UI design is left to the user.
 
-Adding AJAX implementation for a live feed as in a social media.
+Adding AJAX implementation for a live feed as in a social media. Checkout ajax_rss.php file. (To be implemented at the server)
