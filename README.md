@@ -15,4 +15,6 @@ So, do "wget <URL>" which saves an output file to the system i.e. the RSS file.
 
 Look at the HTML structure and add more buttons as desired. This is just the controller part of the application.
 
-User interface is left to the user.
+UI design is left to the user.
+
+Adding AJAX implementation for a live feed as in a social media.
