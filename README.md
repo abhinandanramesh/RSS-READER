@@ -13,4 +13,6 @@ Most of the RSS feed are not feed, it is a browser's rendition of the RSS feed i
 
 So, do "wget <URL>" which saves an output file to the system i.e. the RSS file.
 
-Look at the HTML structure and add more buttons as desired.
+Look at the HTML structure and add more buttons as desired. This is just the controller part of the application.
+
+User interface is left to the user.
